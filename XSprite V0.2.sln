@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSprite V0.2", "XSprite V0.2.csproj", "{D4EACD84-2068-4755-A1A4-4F9A6C1DBEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EACD84-2068-4755-A1A4-4F9A6C1DBEC7}.Debug|x64.ActiveCfg = Debug|x64
+		{D4EACD84-2068-4755-A1A4-4F9A6C1DBEC7}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598C62AE-3E4C-4620-842A-CB6AD1A4997A}
+	EndGlobalSection
+EndGlobal

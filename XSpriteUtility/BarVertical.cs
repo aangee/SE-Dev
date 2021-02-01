@@ -40,7 +40,7 @@ namespace IngameScript
             {
                 MySprite[] compos = new MySprite[2];
 
-                // On cree le contour de la bar avec une nouvelle sprite 
+                // On crée le contour de la barre avec une nvlle sprite 
                 // elle sert de ref pour tous les autres
                 compos[0] = new MySprite()
                 {
@@ -57,7 +57,7 @@ namespace IngameScript
                 // On calcule la positionY du remplissage
                 float posY = compos[0].Position.Value.Y + (fill / 2);
 
-                // On cree l'interieur de la bar avec une nouvelle sprite
+                // On crée l'interieur de la barre avec une nvlle sprite
                 compos[1] = new MySprite()
                 {
                     Type = SpriteType.TEXTURE,

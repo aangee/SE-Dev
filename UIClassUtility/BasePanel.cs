@@ -14,7 +14,7 @@ namespace IngameScript
             internal Vector2 _pos;// Position dans la canvas Parent
             internal Vector2 _size;// Taille du panel
 
-            //Setup des possition predefini dans le panel
+            //Setup des position prédefinies dans le panel
             internal AE_PosIntern posInBasePanel = new AE_PosIntern();
 
 

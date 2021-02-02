@@ -24,6 +24,7 @@ namespace IngameScript
         
         public class InfoBlocs
         {
+            // Test modification
             Program prgm;
 
 
